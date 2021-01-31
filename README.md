@@ -22,20 +22,5 @@ I seriously doubt that I will be working on this in the future. If
 someone paid me a respectable amount and it would remain open 
 source I would consider finishing it because it is kinda cool I 
 in a "You made Excel do what?!" kind of way.   
-
-Motivation (read at your own risk):
-
-This package was written mostly as a tounge-in-cheek exercise due
-to frustrations with the employer I had at the time and their 
-insistance on using Excel to do really complex bridge analysis and
-design. Operating on gigs of data in Excel sheets they would leave
-running over night when Python or literally anything else would
-have been done in seconds or minutes. But their argument was that
-"Excel is easy and programming is complicated." and I was out to 
-demonstrate that you can make Excel do things it was never supposed
-to do, things that are very complicated and would be 1000 times 
-easier in another platform. To show them it's fucking crippling to
-use a tool not meant for the job but force it to do what you want
-it to do because you are too stubborn to change to something better.
  
 
